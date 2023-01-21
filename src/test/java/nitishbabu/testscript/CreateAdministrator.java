@@ -7,6 +7,8 @@ public class CreateAdministrator {
 	public void createAdministrator() {
 		System.out.println("Administrator created Succssesfully 1");
 		System.out.println("Administrator created Succssesfully 2");
+		System.out.println("Administrator created Succssesfully 3 sanjoy");
+	
 		System.out.println("Administrator created Succssesfully 3");
 		System.out.println("Administrator created Succssesfully 4");
 	}

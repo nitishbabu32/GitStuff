@@ -8,5 +8,6 @@ public class CreateStudentTest {
 		System.out.println("Student created Succssesfully");
 		System.out.println("Student created Succssesfully 1");
 		System.out.println("Student created Succssesfully 2");
+		System.out.println("Student created Succssesfully 2 sanjoy ");
 	}
 }
