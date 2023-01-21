@@ -10,6 +10,6 @@ public class CreateAdministrator {
 		System.out.println("Administrator created Succssesfully 3 sanjoy");
 	
 		System.out.println("Administrator created Succssesfully 3");
-		System.out.println("Administrator created Succssesfully 4");
+		
 	}
 }
